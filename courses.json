@@ -1,0 +1,13 @@
+[
+    {
+        "name": "(2025) Angular i Java Spring Od zera do Fullstack developera",
+        "price": 299.99,
+        "imageUrl": "./assets/angular-kurs.png",
+        "mainDesc": "Aktualny na 2025 rok, kurs przedstawiający pracę z framework'ami Angular (JavaScript) oraz Spring (Java)!",
+        "level": "Wszystkie poziomy",
+        "discountPrice": 39.99,
+        "couponUrl": "https://www.udemy.com/course/angular-i-java-spring-od-zera-do-fullstack-developera/?referralCode=FC18C373C3FB0B326171&couponCode=POZNAJPROGRAMOWANIE7",
+        "courseDesc": "<p class=\"course-card-description-item\">Kurs składa się z ponad 40 godzin materiałów wideo dostępnych od ręki. Jest to najaktualniejszy kurs na Udemy dostępny w języku polskim, który przedstawia pracę z frameworkami Angular oraz Spring od podstaw do zaawansowanych konceptów. Oprócz tego materiały prezentują także, jak pracować z wykorzystaniem narzędzia Docker, jak wykorzystywać serwer FTP do zapisywania plików w postaci zdjęć, które są następnie wyświetlane w aplikacji i wiele więcej! Kurs składa się z trzech etapów: <span class=\"font-weight-500\">Nauka Angular od podstaw</span>, <span class=\"font-weight-500\">Nauka Spring (Java) od podstaw</span> oraz <span class=\"font-weight-500\">Projekt wspólny</span>. W ramach projektu wspólnego jest realizowany sklep internetowy, który pozwala użytkownikom utworzyć nowe konto, zamówić wybrane przedmioty i przejść przez proces płatności zintegrowany z PayU.</p>\n\n<div class=\"course-card-description-item\">\n<p>Część realizowanych materiałów:</p>\n<ul>\n<li>Konfiguracja aplikacji Angular od początku, w tym ustawienie ESLint oraz Prettier</li>\n<li>Wzorzec projektowy Dependency Injection (czym jest oraz czym jest obiekt Injector)</li>\n<li>Tworzenie Reactive Forms oraz własnych kontrolek do formularza</li>\n<li>PWA (Progressive Web Application)</li>\n<li>Wykorzystywanie frameworka Spring</li>\n<li>Tworzenie mikroserwisów</li>\n</ul>\n</div>",
+        "videoUrl": "https://www.youtube.com/embed/NSBKpVErN2c?si=Qp6iNpJ3S-tFRlVg"
+      }
+]
