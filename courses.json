@@ -10,5 +10,18 @@
         "couponUrl": "https://www.udemy.com/course/angular-i-java-spring-od-zera-do-fullstack-developera/?referralCode=FC18C373C3FB0B326171&couponCode=POZNAJPROGRAMOWANIE7",
         "courseDesc": "<p class=\"course-card-description-item\">Kurs składa się z ponad 40 godzin materiałów wideo dostępnych od ręki. Jest to najaktualniejszy kurs na Udemy dostępny w języku polskim, który przedstawia pracę z frameworkami Angular oraz Spring od podstaw do zaawansowanych konceptów. Oprócz tego materiały prezentują także, jak pracować z wykorzystaniem narzędzia Docker, jak wykorzystywać serwer FTP do zapisywania plików w postaci zdjęć, które są następnie wyświetlane w aplikacji i wiele więcej! Kurs składa się z trzech etapów: <span class=\"font-weight-500\">Nauka Angular od podstaw</span>, <span class=\"font-weight-500\">Nauka Spring (Java) od podstaw</span> oraz <span class=\"font-weight-500\">Projekt wspólny</span>. W ramach projektu wspólnego jest realizowany sklep internetowy, który pozwala użytkownikom utworzyć nowe konto, zamówić wybrane przedmioty i przejść przez proces płatności zintegrowany z PayU.</p>\n\n<div class=\"course-card-description-item\">\n<p>Część realizowanych materiałów:</p>\n<ul>\n<li>Konfiguracja aplikacji Angular od początku, w tym ustawienie ESLint oraz Prettier</li>\n<li>Wzorzec projektowy Dependency Injection (czym jest oraz czym jest obiekt Injector)</li>\n<li>Tworzenie Reactive Forms oraz własnych kontrolek do formularza</li>\n<li>PWA (Progressive Web Application)</li>\n<li>Wykorzystywanie frameworka Spring</li>\n<li>Tworzenie mikroserwisów</li>\n</ul>\n</div>",
         "videoUrl": "https://www.youtube.com/embed/NSBKpVErN2c?si=Qp6iNpJ3S-tFRlVg"
-      }
+      },
+    {
+      "name": "EN (2025) GraphQL with Angular for beginners",
+      "price": 29.99,
+      "imageUrl": "./assets/graphql-kurs.png",
+      "mainDesc": "A course presenting how to work with the Angular framework using GraphQL!",
+      "level": "All levels",
+      "discountPrice": 12.99,
+      "currencyCode": "USD",
+      "descExpanded": true,
+      "couponUrl": "https://www.udemy.com/course/graphql-with-angular-for-beginners/?couponCode=GRAPHQL1&referralCode=551566C210D7F7D1807F",
+      "courseDesc": "<p class=\"course-card-description-item\">If your goal is to build modern frontend applications using GraphQL, this course is the perfect place to start! This course includes over 3.5 hours of on-demand video content and is a complete introduction to working with the Angular framework and GraphQL technology - from absolute basics to building real-world frontend application that communicate with a backend server. No prior Angular experience is required, although basic familiarity can help speed up your progress.</p><div class=\"course-card-description-item\"><p>During the course, you will:</p><ul><li>Learn GraphQL fundamentals — including schemas, queries, mutations, and subscriptions</li><li>Integrate Angular with GraphQL using both <strong>HttpClient</strong> and <strong>Apollo Client</strong></li><li>Build a complete CRUD application in Angular that connects to a GraphQL backend</li><li>Manage application state using Apollo Client’s caching system</li><li>Handle errors and implement real-time updates using GraphQL subscriptions</li><li>Follow beginner-friendly lessons, even if you're new to Angular</li><li>Work with Angular version 19 — but all code examples are compatible with older versions too</li></ul></div>",
+      "videoUrl": "https://www.youtube.com/embed/h1tPOlNe9iA?si=rOhX6uT0H5uiN6ya"
+    }
 ]
